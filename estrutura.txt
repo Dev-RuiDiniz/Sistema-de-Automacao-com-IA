@@ -1,0 +1,14 @@
+/automacao-empresarial
+│
+├── /venv
+├── /src
+│   ├── __init__.py
+│   ├── integrator.py        # Classe LegacySystemIntegrator
+│   ├── ai_processor.py      # Classe AIProcessor
+│   ├── workflow_manager.py  # Classe WorkflowManager
+│   └── main.py              # Fluxo principal
+│
+├── /models                 # Pasta para modelos de IA
+├── /docs                   # Documentação
+├── requirements.txt        # Dependências
+└── README.md               # Documentação do projeto
